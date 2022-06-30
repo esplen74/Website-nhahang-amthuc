@@ -1,0 +1,168 @@
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\Doannhom.dll.config
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\Doannhom.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\Doannhom.pdb
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\csc.exe
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\csc.exe.config
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\csc.rsp
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\csi.exe
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\csi.exe.config
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\csi.rsp
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.AppContext.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.Console.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.IO.Compression.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.IO.FileSystem.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.IO.Pipes.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.Security.AccessControl.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.Security.Claims.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.ValueTuple.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.Xml.XPath.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\vbc.exe
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\vbc.exe.config
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\vbc.rsp
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\VBCSCompiler.exe
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\obj\Debug\Doannhom.csprojAssemblyReference.cache
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\obj\Debug\Doannhom.csproj.CoreCompileInputs.cache
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\obj\Debug\Doannhom.csproj.CopyComplete
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\obj\Debug\Doannhom.dll
+D:\Đồ án_KTTMĐT\Doannhom\Doannhom\obj\Debug\Doannhom.pdb
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\Doannhom.dll.config
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\Doannhom.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\Doannhom.pdb
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\csc.exe
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\csc.exe.config
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\csc.rsp
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\csi.exe
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\csi.exe.config
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\csi.rsp
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.AppContext.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Console.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.IO.Compression.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.IO.FileSystem.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.IO.Pipes.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Security.AccessControl.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Security.Claims.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.ValueTuple.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Xml.XPath.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\vbc.exe
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\vbc.exe.config
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\vbc.rsp
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\VBCSCompiler.exe
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\obj\Debug\Doannhom.csprojAssemblyReference.cache
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\obj\Debug\Doannhom.csproj.CoreCompileInputs.cache
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\obj\Debug\Doannhom.csproj.CopyComplete
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\obj\Debug\Doannhom.dll
+D:\Đồ án_KTTMĐT\Website Nhà Hàng Ẩm Thực\Doannhom\obj\Debug\Doannhom.pdb
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\Doannhom.dll.config
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\Doannhom.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\Doannhom.pdb
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\csc.exe
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\csc.exe.config
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\csc.rsp
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\csi.exe
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\csi.exe.config
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\csi.rsp
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.AppContext.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Collections.Immutable.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Console.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.IO.Compression.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.IO.FileSystem.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.IO.Pipes.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Security.AccessControl.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Security.Claims.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.ValueTuple.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Xml.XPath.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\vbc.exe
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\vbc.exe.config
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\vbc.rsp
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\VBCSCompiler.exe
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\roslyn\VBCSCompiler.exe.config
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\obj\Debug\Doannhom.csprojAssemblyReference.cache
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\obj\Debug\Doannhom.csproj.CoreCompileInputs.cache
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\obj\Debug\Doannhom.csproj.CopyComplete
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\obj\Debug\Doannhom.dll
+D:\Dowload\Website Nhà Hàng Ẩm Thực\Doannhom\obj\Debug\Doannhom.pdb

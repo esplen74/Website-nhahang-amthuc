@@ -1,0 +1,75 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="thucdon.master.cs" Inherits="Doannhom.thucdon" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Rượu Vang Boutique & Restaurant</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="StyleSheet2.css" rel="stylesheet" />
+    <script src="https://kit.fontawesome.com/3ef130c137.js" crossorigin="anonymous"></script>
+</head>
+<body>
+     <form id="form2" runat="server">
+        <div class="container">
+               <div class="header">
+                <div id="logo" > 
+                    <asp:HyperLink NavigateUrl="~/home.aspx" ID="HyperLink6"  runat="server"></asp:HyperLink>
+                </div>
+                <ul class="menuright">
+                    <li><asp:HyperLink ID="HyperLink7" NavigateUrl="~/home.aspx" runat="server">TRANG CHỦ</asp:HyperLink></li>
+                        <li><asp:HyperLink NavigateUrl="~/thucdon.aspx" ID="HyperLink2" runat="server">THỰC ĐƠN</asp:HyperLink>  
+                         </li>
+                        <li><asp:HyperLink NavigateUrl="~/hinhanh.aspx" ID="HyperLink3" runat="server">HÌNH ẢNH</asp:HyperLink>
+                            
+                        </li>
+                        <li><asp:HyperLink ID="HyperLink4" NavigateUrl="~/lienhe.aspx" runat="server">LIÊN HỆ</asp:HyperLink></li>
+                    
+                </ul>   
+             </div>
+            <div class="content">
+                 <div class="buttondatban">
+                    <asp:HyperLink ID="HyperLink1" NavigateUrl="~/lienhe.aspx" runat="server">Đặt Bàn</asp:HyperLink> </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+             </div>
+        </div>   
+                
+            <div class="footer">
+                <div class="footer-item">
+                <div class="contact">
+                   <i class="fas fa-map-marker-alt"></i>
+                   142/8 Hàm Nghi, Thanh Khê, Đà Nẵng
+               </div>
+                <div class="contact">
+                    <i class="fas fa-mobile"></i>
+                    1900 9199
+                </div>
+                <div class="contact">
+                    <i class="far fa-envelope"></i>
+                    RuouVang142@gmail.com
+                </div>
+                <div class="contact">
+                    <a href="https://www.facebook.com/huyy.smyenv.7/">
+                        <i class="fab fa-facebook-square"></i>
+                    </a>
+                    <a href="https://www.instagram.com/">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                    <a href="https://www.youtube.com/watch?v=UqKVL56IJB8">
+                        <i class="fab fa-youtube"></i>
+                    </a>
+                    <a href="https://www.skype.com/en/">
+                        <i class="fab fa-skype"></i>
+                    </a>
+                    <li><asp:HyperLink ID="HyperLink5" NavigateUrl="~/loginaspx.aspx" runat="server">login(admin)</asp:HyperLink></li>
+                </div>
+                    </div>
+            </div>
+         
+    <script src="slide.js"></script>
+        </form>
+    
+</body>
+</html>

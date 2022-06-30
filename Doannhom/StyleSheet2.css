@@ -1,0 +1,256 @@
+﻿body {
+    width: 100%;
+    padding: 0;
+    font-family: 'Courier New',arial, sans-serif;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+img {
+    height: auto;
+}
+/*--Header--*/
+.header {
+    width: 100%;
+    height: 50px;
+    background-color: #bc2f3f;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+}
+
+    .header #logo {
+        background-image: url(./images/logo/logo2.png);
+        width: 75px;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        margin-left: 110px;
+    }
+
+    .header .menuright {
+        list-style: none;
+        margin: 0 150px;
+        display: flex;
+        position: relative;
+    }
+
+        .header .menuright li {
+            color: #FFEBCD;
+            font-size: 22px;
+            font-weight: bold;
+            padding: 10px 20px;
+            display: inline-block;
+        }
+
+        .header .menuright a {
+            text-decoration: none;
+            color: #FFEBCD;
+        }
+
+.menuright > li > a:hover {
+    color: black;
+    cursor: pointer;
+}
+
+li:hover .menuthucdon {
+    display: block;
+}
+
+.menuright .menuthucdon {
+    list-style: none;
+    display: none;
+    box-shadow: 0 0 10px (0,0,0, 0.3);
+    background-color: white;
+    position: absolute;
+}
+
+.menuthucdon a {
+}
+
+/*SLIDER*/
+
+img {
+    vertical-align: middle;
+}
+
+/* Slideshow container */
+.slideshow-container {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    padding-top: 50px;
+}
+
+/* Hide the images by default */
+.mySlides {
+    display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+    /* On hover, add a black background color with a little bit see-through */
+    .prev:hover, .next:hover {
+        background-color: rgba(0,0,0,0.8);
+    }
+
+
+
+.active {
+    background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 3s;
+}
+
+@keyframes cogai {
+    0% {
+        opacity: 0;
+        transform: scanleX(0.4);
+    }
+
+    100% {
+        opacity: 1;
+        transform: scanleX(1);
+    }
+}
+
+@-webkit-keyframes fade {
+    from {
+        opacity: .1
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+@keyframes fade {
+    from {
+        opacity: .9
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+
+@media only screen and (max-width: 300px) {
+    .prev, .next, .text {
+        font-size: 11px
+    }
+}
+
+/*--CONTENT--*/
+.content {
+    width: 100%;
+    background-color: #FFEBCD;
+    padding-left: 0px;
+}
+
+
+
+.buttondatban {
+    background: #bc2f3f;
+    position: fixed;
+    bottom: 52%;
+    padding: 9px 6px;
+    border-radius: 3px;
+    right: 3px;
+    z-index: 99999;
+}
+
+.content .buttondatban a {
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+    font-weight: 600;
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.buttondatban a:hover {
+    color: black;
+    cursor: pointer;
+}
+
+.homecontent {
+    display: flex;
+    padding-left: 150px;
+}
+
+.home-content-left {
+    background-image: url(./images/khonggian/gioithieu.jpg);
+    flex: 1;
+    background-size: cover;
+}
+
+.home-content-right {
+    flex: 3;
+    border: 4px solid #bc2f3f;
+    padding: 10px 10px;
+    margin: 5px 5px;
+    line-height: 30px;
+    box-sizing: border-box;
+    font-weight: bold;
+    text-align: center !important;
+    font-size: 15px;
+    color: #222;
+}
+
+/*--FOOTER--*/
+.footer {
+    background-image: url(./images/logo/footer.jpg);
+    opacity: 0.8;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-size: 30px;
+    position: relative;
+    text-align: center;
+}
+
+    .footer .footer-item {
+        padding-top: 190px;
+        padding-left: 100px;
+        font-weight: bold;
+    }
+
+        .footer .footer-item .contact {
+            padding: 5px 0px;
+        }
+
+            .footer .footer-item .contact a {
+                text-decoration: none;
+                color: rgba(0, 0, 0, 0.6);
+            }
+
+                .footer .footer-item .contact a:hover {
+                    color: rgba(0, 0, 0, 0.3);
+                }
